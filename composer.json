@@ -3,9 +3,9 @@
     "description": "A collection of reusable helper methods",
     "type": "library",
     "autoload": {
-        "psr-4": {
-            "SharedComponents\\Helpers\\": "src/"
-        }
+        "files": [
+            "src/php/helpers.php"
+        ]
     },
     "authors": [
         {
