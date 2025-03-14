@@ -1,10 +1,11 @@
 {
-  "name": "shared-components",
+  "name": "shared-components/helpers",
   "description": "A collection of reusable helper methods",
   "type": "library",
   "autoload": {
     "files": [
-      "helpers.php"
+      "php/helpers.php",
+      "scss/helpers.scss"
     ]
   }
 }
