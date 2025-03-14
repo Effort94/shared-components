@@ -1,10 +1,9 @@
 {
     "name": "shared-components/helpers",
     "description": "A collection of reusable helper methods",
-    "type": "library",
     "autoload": {
         "files": [
-            "src/php/helpers.php"
+            "src/helpers.php"
         ]
     },
     "authors": [
@@ -13,5 +12,7 @@
             "email": "wdavey713@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
