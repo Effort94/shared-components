@@ -1,5 +1,5 @@
 {
-  "name": "effort94/shared-components",
+  "name": "shared-components",
   "description": "A collection of reusable helper methods",
   "type": "library",
   "autoload": {
