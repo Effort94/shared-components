@@ -1,0 +1,17 @@
+{
+    "name": "shared-components/helpers",
+    "description": "A collection of reusable helper methods",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SharedComponents\\Helpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Warren",
+            "email": "wdavey713@gmail.com"
+        }
+    ],
+    "require": {}
+}
