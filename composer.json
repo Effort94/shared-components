@@ -1,5 +1,5 @@
 {
-  "name": "shared-compoenents/helpers",
+  "name": "shared-components/helpers",
   "description": "A collection of reusable helper methods",
   "type": "library",
   "autoload": {
