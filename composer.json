@@ -1,5 +1,5 @@
 {
-    "name": "test/shared-components",
+    "name": "effort94/shared-components",
     "description": "Reusable helper functions and styles",
     "autoload": {
         "files": [
