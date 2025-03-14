@@ -1,18 +1,10 @@
 {
-    "name": "shared-components/helpers",
-    "description": "A collection of reusable helper methods",
+    "name": "test/shared-components",
+    "description": "Reusable helper functions and styles",
     "autoload": {
         "files": [
             "src/helpers.php"
         ]
     },
-    "authors": [
-        {
-            "name": "Warren",
-            "email": "wdavey713@gmail.com"
-        }
-    ],
-    "require": {
-        "php": ">=7.4"
-    }
+    "require": {}
 }
