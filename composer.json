@@ -3,7 +3,8 @@
     "description": "Reusable helper functions and styles",
     "autoload": {
         "files": [
-            "src/helpers.php"
+            "src/helpers.php",
+            "src/helpers.scss"
         ]
     },
     "require": {}
