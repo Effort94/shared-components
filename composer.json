@@ -1,0 +1,10 @@
+{
+  "name": "shared-compoenents/helpers",
+  "description": "A collection of reusable helper methods",
+  "type": "library",
+  "autoload": {
+    "files": [
+      "helpers.php"
+    ]
+  }
+}

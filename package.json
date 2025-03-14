@@ -1,0 +1,12 @@
+{
+  "name": "shared-compoenents/helper-styles",
+  "version": "1.0.0",
+  "description": "A collection of helper styles for SCSS.",
+  "main": "helper.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
